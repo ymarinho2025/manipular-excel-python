@@ -1,0 +1,10 @@
+"txt-planilhas.py" ira te pedir o nome do arquivo que você ira usar para criar sua planilha
+
+caso esteja se perguntando:
+- Que Arquivo?
+Estou me referindo ao txt criado por você com base no "exemplo.txt"
+caso você não viu o "exemplo.txt" de uma olhada e crie seu arquivo baseado nele.
+
+após isso o "txt-planilhas.py" ira perguntar como deseja salvar a planilha final e você apenas colocara o nome que quiser.
+
+Sua planilha sera salva no mesmo local que execultou o arquivo ;)

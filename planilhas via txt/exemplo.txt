@@ -1,0 +1,5 @@
+Horário,Evento,Departamento Responsável
+(ignorar esta linha, pode ser comentário ou em branco)
+8h45min – 9h00min,Louvor Congregacional,Ministério de Música
+9h00min – 10h10min,Escola Sabatina,Escola Sabatina
+10h10min – 10h20min,Anúncios,Comunicação
